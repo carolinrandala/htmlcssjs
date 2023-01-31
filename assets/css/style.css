@@ -1,0 +1,18 @@
+h1 {
+    color: deepskyblue;
+}
+#Course-list {
+    margin: -50% 5% 0% 75%;
+}
+.hide-me {
+    display: none;
+}
+
+.bold-orange {
+    color: orange;
+    font-weight: bold;
+}
+
+.underline-me {
+    text-decoration: underline;
+}
